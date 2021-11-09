@@ -2,7 +2,7 @@
 <div id="app">
 <div class="container">
 <img src="./assets/logo.png" alt="">
-<h1>Comparing JS Frameworks: This one is Svelte</h1>
+<h1>Comparing JS Frameworks: This one is Vue</h1>
 <div class="count">{{ count }}</div>
 <button @click="increment()">Increment</button>
 </div>
